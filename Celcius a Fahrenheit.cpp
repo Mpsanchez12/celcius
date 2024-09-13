@@ -16,7 +16,7 @@ double celcius,Fahrenheit;
 cout<<"Ingresar los grados Celcius"<<endl;
 cin>>celcius;
 Fahrenheit=(celcius*9/5)+32;
-cout<<"La temperatura en grados Fahrenheit es:"<<Fahrenheit<<endl;
+cout<<"La temperatura en grados Fahrenheit es"<<Fahrenheit<<endl;
 
 
 
